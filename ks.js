@@ -4,7 +4,7 @@ const axios = require('axios');
 const sendEmail = require('./email'); // 
 
 const provider = new ethers.providers.WebSocketProvider(
-    'wss://eth-mainnet.nodereal.io/ws/v1/121b0ea7fd3b4992a5c8e810a4b5f806'
+    'wss://eth-mainnet.nodereal.io/ws/v1/f68176b4c3114346a72c544403f65ae3'
 );
 
 // 
