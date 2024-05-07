@@ -29,6 +29,24 @@
 
 用github登录即可 一个月 1亿次查询 每秒上线350次  每月都有1亿次数 
 
+
+##  公开共享ETH主网RPC 
+
+  wss://eth-mainnet.nodereal.io/ws/v1/f68176b4c3114346a72c544403f65ae3
+
+  wss://ethereum-mainnet.s.chainbase.online/v1/2g7W5wXBwnEGmCl7TGPZU0yGcf0
+  
+  wss://mainnet.gateway.tenderly.co/3lP8yUkPo0zuc0ANqltoPK
+  
+  wss://lb.drpc.org/ogws?network=ethereum&dkey=AlxS4PXeH0MXmuOhJnWtUXQlulxjDBYR75DfivLNMzUy
+
+  wss://eth-mainnet.blastapi.io/1fcac3bf-1fe3-44f9-b295-086d2bcd3f02
+
+  wss://eth.llamarpc.com
+
+  wss://ethereum-mainnet.core.chainstack.com/ws/f6b7f3ae859d577e450a55d166e0bf81
+
+
 ## 免责声明
 
     本软件按原样提供，不提供任何保证。使用风险自负。
