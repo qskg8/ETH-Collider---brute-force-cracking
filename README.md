@@ -32,7 +32,7 @@
 
 ##  公开共享ETH主网RPC 
 
-  wss://eth-mainnet.nodereal.io/ws/v1/f68176b4c3114346a72c544403f65ae3
+  wss://eth-mainnet.nodereal.io/ws/v1/e3c1a388f27b4509bb2009e082798223
 
   wss://ethereum-mainnet.s.chainbase.online/v1/2g7W5wXBwnEGmCl7TGPZU0yGcf0
   
