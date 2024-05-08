@@ -39,11 +39,11 @@ ETH公开节点网站https://ethereumnodes.com/
 
 ##  打赏作者
 
-BTC：bc1qhhz3g6qsumlw8w6n4shwddcdjmthepyze5z748
+BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
 
 ETH：0x607a2ffeEf6B9e86529e19C675eEC2241084C999
 
-TRX：THopfkCrmX1EFRPeJ13XXgadw8GbcBx4ra
+TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
 ## 免责声明
 
