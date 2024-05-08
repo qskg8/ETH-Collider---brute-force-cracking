@@ -45,6 +45,12 @@ ETH：0x607a2ffeEf6B9e86529e19C675eEC2241084C999
 
 TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
+##  作者的github
+
+https://github.com/qskg8/ETH-Collider---brute-force-cracking
+
+稳定更新中
+
 ## 免责声明
 
     本软件按原样提供，不提供任何保证。使用风险自负。
