@@ -1,50 +1,38 @@
 ##  前提
- -首先你得安装[Node.js](https://nodejs.org/en/download/)
- 
- 这是官网：https://nodejs.org/en/download/
- 
-然后安装依赖库
-
-运行一键安装依赖库.bat
+1.5大更新
 
 
-## 先生成钱包:
+## 说明:
 
-先运行 生成.bat
+生成速度加快！
 
-生成你认为一定数量的ETH数量钱包和秘钥
+一键懒人操作取消
 
-结束生成.bat后 ，运行快速查询.bat
+先生成，在查询，几率和速度都比懒人操作快
 
-检测ETH钱包内ETH的余额，如果超过0 则保存在根目录的88.txt内
+我一般生成100w个钱包然后再查询
+
+查询完1.txt内容自动清空1.txt
 
 ##  关于RPC
 
-如果遇到查询不了，可能是我的次数用完了
-
-请在ks.js第7行更改为你自己的wss节点
+已经内置RPC节点
 
 
-节点免费获取地址:https://nodereal.io/invite/78d2e624-a35b-48e9-892a-2c6834faf8d0
+##  新增功能邮箱通知 
 
-用github登录即可 一个月 1亿次查询 每秒上线350次  每月都有1亿次数 
+  如查询到余额大于0通过邮箱通知你
+
+  邮箱通知在email.js内修改
 
 
-##  公开共享ETH主网RPC 
+##  打赏作者
 
-  wss://eth-mainnet.nodereal.io/ws/v1/e3c1a388f27b4509bb2009e082798223
+BTC：bc1qhhz3g6qsumlw8w6n4shwddcdjmthepyze5z748
 
-  wss://ethereum-mainnet.s.chainbase.online/v1/2g7W5wXBwnEGmCl7TGPZU0yGcf0
-  
-  wss://mainnet.gateway.tenderly.co/3lP8yUkPo0zuc0ANqltoPK
-  
-  wss://lb.drpc.org/ogws?network=ethereum&dkey=AlxS4PXeH0MXmuOhJnWtUXQlulxjDBYR75DfivLNMzUy
+ETH：0x607a2ffeEf6B9e86529e19C675eEC2241084C999
 
-  wss://eth-mainnet.blastapi.io/1fcac3bf-1fe3-44f9-b295-086d2bcd3f02
-
-  wss://eth.llamarpc.com
-
-  wss://ethereum-mainnet.core.chainstack.com/ws/f6b7f3ae859d577e450a55d166e0bf81
+TRX：THopfkCrmX1EFRPeJ13XXgadw8GbcBx4ra
 
 
 ## 免责声明
