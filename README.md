@@ -42,6 +42,10 @@ TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
 https://github.com/qskg8/ETH-Collider---brute-force-cracking
 
+##  交流群组
+
+[https://github.com/qskg8/ETH-Collider---brute-force-cracking](https://t.me/btc88888eeth)
+
 稳定更新中
 
 ## 免责声明
