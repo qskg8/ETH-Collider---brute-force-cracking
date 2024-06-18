@@ -61,7 +61,7 @@
 
 - This software is provided as is without any warranty. Use at your own risk.
 
-本软件仅用于教育目的。未经他人许可，请勿使用它来破解他人的钱包。
+- 本软件仅用于教育目的。未经他人许可，请勿使用它来破解他人的钱包。
 
-This software is for educational purposes only. Do not use it to crack someone else's wallet without their permission.
+- This software is for educational purposes only. Do not use it to crack someone else's wallet without their permission.
 
