@@ -1,29 +1,28 @@
-## 更新说明:Update instructions
+# 更新说明:Update instructions
+
+
+- v1.7更新通知 V1.7 Update Notification
 
 
 
-v1.7更新通知 V1.7 Update Notification
+- 现在可以一边生成一边查询
+
+- Now we can generate and query at the same time
+
+- 如果查询到有余额会保存到88.xtx内
+
+- If a balance is found, it will be saved to 88.xtx
+
+- ##  关于RPC  About RPC
+
+- 请在rpc.txt更换成你们自己的rpc节点
+
+- Please replace with your own rpc node in rpc.txt
 
 
+- 有能力的还是自己去注册，教程如下
 
-现在可以一边生成一边查询
-
-Now we can generate and query at the same time
-
-如果查询到有余额会保存到88.xtx内
-
-If a balance is found, it will be saved to 88.xtx
-
-##  关于RPC  About RPC
-
-请在rpc.txt更换成你们自己的rpc节点
-
-Please replace with your own rpc node in rpc.txt
-
-
-有能力的还是自己去注册，教程如下
-
-Those who are capable should register themselves. The tutorial is as follows
+- Those who are capable should register themselves. The tutorial is as follows
 
 
 RPC免费节点免费获取地址:https://nodereal.io/invite/78d2e624-a35b-48e9-892a-2c6834faf8d0
