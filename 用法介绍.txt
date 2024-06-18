@@ -1,40 +1,27 @@
 ## 更新说明:
 
-v1.65更新通知
+v1.7更新通知
 
-1.新增rpc公开大全
 
-## 使用说明:
+现在可以一边生成一边查询    
 
-先生成钱包，再快速查询，几率和速度都比懒人操作快
-
-我一般生成100w个钱包然后再查询
-
-查询完毕现在会有提示，而且自动清空1.txt      
-
-如果有余额会保存到88.xtx内
+如果查询到有余额会保存到88.xtx内
 
 ##  关于RPC
 
 请在rpc.txt更换成你们自己的rpc节点
 
-公开rpc节点.txt里面我整理了一下
-
-ETH公开节点网站https://ethereumnodes.com/
-
-公开的延迟每个地区都不一样，且上限每秒30-50次 
-
 有能力的还是自己去注册，教程如下
 
-节点免费获取地址:https://nodereal.io/invite/78d2e624-a35b-48e9-892a-2c6834faf8d0
+RPC免费节点免费获取地址:https://nodereal.io/invite/78d2e624-a35b-48e9-892a-2c6834faf8d0
 
-用github登录即可 一个月 1亿次查询 每秒上线350次
+用github登录即可 一个月 1亿次查询 每秒上线30次
 
 ##  打赏作者
 
 BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
 
-ETH：0x607a2ffeEf6B9e86529e19C675eEC2241084C999
+ETH：0x042ce53c4e305c5ad5415fef5ef4b415a48d199d
 
 TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
