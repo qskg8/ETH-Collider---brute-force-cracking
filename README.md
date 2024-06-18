@@ -34,7 +34,7 @@ ETH公开节点网站https://ethereumnodes.com/
 
 BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
 
-ETH：0x607a2ffeEf6B9e86529e19C675eEC2241084C999
+ETH：0x042ce53c4e305c5ad5415fef5ef4b415a48d199d
 
 TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
