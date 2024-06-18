@@ -36,9 +36,7 @@ RPC Free Node Free Access Address: https://nodereal.io/invite/78d2e624-a35b-48e9
 Log in with GitHub and you can access 100 million queries per month, and go online 30 times per second
 
 
-##  打赏作者
-##Reward the author
-
+##  打赏作者  Reward the author
 
 BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
 
@@ -48,7 +46,7 @@ ETH：0x042ce53c4e305c5ad5415fef5ef4b415a48d199d
 TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
 
-##  作者的github Author's GitHub
+##  作者的github   Author's GitHub
 
 https://github.com/qskg8/ETH-Collider---brute-force-cracking
 
