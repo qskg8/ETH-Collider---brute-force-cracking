@@ -1,11 +1,10 @@
-## 更新说明:
-
-##Update instructions:
+## 更新说明:Update instructions
 
 
-v1.7更新通知
 
-V1.7 Update Notification
+v1.7更新通知 V1.7 Update Notification
+
+
 
 现在可以一边生成一边查询
 
@@ -15,10 +14,7 @@ Now we can generate and query at the same time
 
 If a balance is found, it will be saved to 88.xtx
 
-##  关于RPC
-
-##About RPC
-
+##  关于RPC  About RPC
 
 请在rpc.txt更换成你们自己的rpc节点
 
@@ -52,21 +48,12 @@ ETH：0x042ce53c4e305c5ad5415fef5ef4b415a48d199d
 TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
 
-##  作者的github
-
-##Author's GitHub
+##  作者的github Author's GitHub
 
 https://github.com/qskg8/ETH-Collider---brute-force-cracking
 
 
-稳定更新中
-
-Stable update in progress
-
-
-## 免责声明
-
-Disclaimers
+## 免责声明 Disclaimers
 
 
 本软件按原样提供，不提供任何保证。使用风险自负。
