@@ -50,6 +50,10 @@ TRX：TZ355he1WXfiHwZGJKNCEvj4xygib87ayr
 
 https://github.com/qskg8/ETH-Collider---brute-force-cracking
 
+##  作者的github  
+
+-电报发布群https://t.me/btc88888eeth
+-Telegraph publishing group https://t.me/btc88888eeth
 
 ## 免责声明 Disclaimers
 
