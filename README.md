@@ -10,6 +10,8 @@ ETH私钥生成器从原始私钥.txt中选择一个私钥 进行随机32位修�
 
 抛弃了原有的全自动  改为半自动模式
 
+原始私钥.txt可自行更换
+
 ##  打赏作者
 
 BTC：37TvGkvgTjKAmHW6ziFJ13VCVHbxMePdoy
